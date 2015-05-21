@@ -48,21 +48,7 @@
         "title": "",
         "displayTitle": "",
         "body": "",
-        "_trackingId": 4,
-        "_trickle": {
-            "_isEnabled": true,
-            "_button": {
-                "_autoHide": true,
-                "_styleBeforeCompletion": "hidden",
-                "_styleAfterClick": "hidden",
-                "_isFullWidth": true,
-                "_className": "trickle-round-arrow"
-            },
-            "_stepLocking": {
-                "_isEnabled": true,
-                "_isCompletionRequired": true
-            }
-        }
+        "_trackingId": 4
     },
     {
         "_id": "b-25",
@@ -73,10 +59,7 @@
         "title": "",
         "displayTitle": "",
         "body": "",
-        "_trackingId": 5,
-        "_trickle": {
-            "_isEnabled": true
-        }
+        "_trackingId": 5
     },
     {
         "_id": "b-30",
@@ -87,22 +70,7 @@
         "title": "",
         "displayTitle": "",
         "body": "",
-        "_trackingId": 6,
-        "_trickle": {
-            "_isEnabled": true,
-            "_button": {
-                "_autoHide": false,
-                "_styleBeforeCompletion": "hidden",
-                "_styleAfterClick": "scroll",
-                "_isFullWidth": false,
-                "_className": "",
-                "text": "Clicke Moi!"
-            },
-            "_stepLocking": {
-                "_isEnabled": true,
-                "_isCompletionRequired": true
-            }
-        }
+        "_trackingId": 6
     },
     {
         "_id": "b-31",
